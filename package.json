@@ -1,0 +1,14 @@
+{
+  "name": "pokemon",
+  "version": "0.0.1",
+  "description": "A web-clone version of Pocket Monsters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Ichisada Shioko",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
